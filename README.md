@@ -150,7 +150,7 @@ Built an **interactive Power BI dashboard** to visualize key business metrics.
 
 ## Dashboard Preview
 
-![Dashboard Preview](https://github.com/Anuragkumbhar02/Bucket-Study-Customer-Behavior-Analysis/blob/main/Dashboard.png)
+![Dashboard Preview](https://github.com/Anuragkumbhar02/Bucket-Study-Customer-Behavior-Analysis/blob/main/Image.png)
 
 ---
 
