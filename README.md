@@ -1,5 +1,4 @@
 # Bucket-Study-Customer-Behavior-Analysis
-# Customer Behavior Analysis (E-Commerce)
 
 ## Project Overview
 
