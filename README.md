@@ -157,11 +157,17 @@ Built an **interactive Power BI dashboard** to visualize key business metrics.
 ## Project Structure
 
 Customer-Behavior-Analysis
+
 │
+
 ├── Dataset
+
 ├── Python Analysis (EDA & RFM)
+
 ├── SQL Queries
+
 ├── Power BI Dashboard
+
 └── README.md
 
 ---
